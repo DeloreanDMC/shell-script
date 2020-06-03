@@ -1,6 +1,6 @@
 #!/bin/sh
 
-# Author : Milovanov Konstantin
+# Author : Milovanov Konstantin Variant 5
 # Script : 
 # лучше через UID, чем через whoami, так как имя пользователя запустившего процесс может быть алиасом или обрезано  
 echo Wake up $(whoami)
